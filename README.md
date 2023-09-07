@@ -1,2 +1,2 @@
 # CV_Pweb
-Make a cv resume using only html and css for web task
+Membuat Website CV Resume Sederhana Menggunakan HTML dan CSS
